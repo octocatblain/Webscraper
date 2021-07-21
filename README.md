@@ -1,6 +1,6 @@
 <h1 align="center">:spider_web: Web Scraper :computer:</h1>
 
-Web scraping is the practice of extracting content and data from a website using bots. Web scraping, unlike *screen scraping*, which replicates only the pixels seen onscreen, retrieves the underlying HTML code and, with it, the data contained in a database. The scraper can then copy the full website's content to another location. This custom code I built searches the source code of the page for specific parts I've defined and extracts the content I've asked it to extract.
+Web scraping is the practice of extracting content and data from a website using bots. Web scraping, unlike *screen scraping*, which replicates only the pixels seen onscreen, retrieves the underlying HTML code and, with it, the data contained in a database. The scraper can then copy the full website's content to another location. This custom code searches the source code of the page for specific parts defined and extracts the content asked to extract.
 
 ### :warning: Beware
 Before scraping any website, check the **_terms and conditions_** page to determine if there are any clear scraping rules. You should follow them if there are any. If there aren't any, it's more of a _guessing game._
@@ -24,10 +24,10 @@ Before scraping any website, check the **_terms and conditions_** page to determ
 
 ## :electric_plug: What to Expect
 - Script Results in `cmd.exe`
-![Script Results in cmd.exe](https://user-images.githubusercontent.com/62080362/126538158-a6d698d6-c2a2-41b7-a7d8-420fa223ba83.png)
+- ![Script Results in cmd.exe](https://user-images.githubusercontent.com/62080362/126538158-a6d698d6-c2a2-41b7-a7d8-420fa223ba83.png)
 
 - Results in the Products.csv file
-![Results in the Products.csv file)](https://user-images.githubusercontent.com/62080362/126538429-63c1468c-18f2-41ec-82a2-36a7ac069e4c.png)
+- ![Results in the Products.csv file)](https://user-images.githubusercontent.com/62080362/126538429-63c1468c-18f2-41ec-82a2-36a7ac069e4c.png)
 
 
 <h3 align="center"> This code was built with :heart: and 2 cups of Coffee:coffee:</h3>
