@@ -24,10 +24,12 @@ Before scraping any website, check the **_terms and conditions_** page to determ
 
 ## :electric_plug: What to Expect
 - Script Results in `cmd.exe`
-- ![Script Results in cmd.exe](https://user-images.githubusercontent.com/62080362/126538158-a6d698d6-c2a2-41b7-a7d8-420fa223ba83.png)
+
+![Script Results in cmd.exe](https://user-images.githubusercontent.com/62080362/126538158-a6d698d6-c2a2-41b7-a7d8-420fa223ba83.png)
 
 - Results in the Products.csv file
-- ![Results in the Products.csv file)](https://user-images.githubusercontent.com/62080362/126538429-63c1468c-18f2-41ec-82a2-36a7ac069e4c.png)
+
+![Results in the Products.csv file)](https://user-images.githubusercontent.com/62080362/126538429-63c1468c-18f2-41ec-82a2-36a7ac069e4c.png)
 
 
 <h3 align="center"> This code was built with :heart: and 2 cups of Coffee:coffee:</h3>
