@@ -9,4 +9,4 @@ Before scraping any website, check the **_terms and conditions_** page to determ
 - Consider caching the content you scrape so that it’s only downloaded once.
 - Build pauses into your code using functions like `time.sleep()` to keep from overwhelming servers with too many requests too quickly.
 
-<h3 align="center"> This code was built love:heart: and 2 cups of Coffee:coffee:</h3>
+<h3 align="center"> This code was built with :heart: and 2 cups of Coffee:coffee:</h3>
