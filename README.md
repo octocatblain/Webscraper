@@ -1,0 +1,2 @@
+# Webscraper
+Web scraping is the practice of extracting content and data from a website using bots. Web scraping, unlike screen scraping, which replicates only the pixels seen onscreen, retrieves the underlying HTML code and, with it, the data contained in a database. The scraper can then copy the full website's content to another location. This custom code I built searches the source code of the page for specific parts I've defined and extracts the content I've asked it to extract.
