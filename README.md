@@ -9,7 +9,17 @@ Before scraping any website, check the **_terms and conditions_** page to determ
 - Sadly, not all websites support web scraping.
 
 #### :books:Resource Used
-- The example used is [Newegg eCommerce Online Store](https://www.newegg.com/Video-Cards-Video-Devices/Category/ID-38?cm_sp=Tab_Components_3-_-visnav-_-Video-Graphic-Devices_2). Newegg Commerce, Inc. is a company that sells computer hardware and consumer gadgets online. Its headquarters are in the *City of Industry*, California.
+- [Newegg eCommerce Online Store](https://www.newegg.com/Video-Cards-Video-Devices/Category/ID-38?cm_sp=Tab_Components_3-_-visnav-_-Video-Graphic-Devices_2). Newegg Commerce, Inc. is a company that sells computer hardware and consumer gadgets online. Its headquarters are in the *City of Industry*, California.
+
+
+https://user-images.githubusercontent.com/62080362/126565462-31e4f97f-0fda-4228-b3be-bbbbcda17f8e.mp4
+
+
+- [National Weather Service](https://forecast.weather.gov/MapClick.php?lat=37.7772&lon=-122.4168). The National Weather Service is a federal government agency responsible with delivering weather forecasts, hazardous weather warnings, and other weather-related services to organizations and the general public for protection, safety, and general information.
+
+
+https://user-images.githubusercontent.com/62080362/126565495-e91a928c-d071-4a73-8fd6-e8aaeeab3aca.mp4
+
 
 ## :hammer_and_wrench:Tools & Languages Used
 - Anaconda Version 4.10.1
