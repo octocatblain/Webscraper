@@ -16,6 +16,7 @@ Before scraping any website, check the **_terms and conditions_** page to determ
 - Python Version 3.8.8
 - Beautiful Soup - Beautiful Soup is a Python package for parsing HTML and XML documents.
 - Extensible library for opening URLs -The `urllib.request` module
+- Python `requests` library in [NWS-webscraper.py](https://github.com/xblainm/Webscraper/blob/main/NWS-webscraper.py)
 
 ## :high_brightness: Best Practices when Web Scraping
 - Never scrape more frequently than you need to.
@@ -30,6 +31,10 @@ Before scraping any website, check the **_terms and conditions_** page to determ
 - Results in the Products.csv file
 
 ![Results in the Products.csv file)](https://user-images.githubusercontent.com/62080362/126538429-63c1468c-18f2-41ec-82a2-36a7ac069e4c.png)
+
+- Dataframe Display in Terminal for [NWS-webscraper.py](https://github.com/xblainm/Webscraper/blob/main/NWS-webscraper.py)
+
+![Dataframe Display in Terminal](https://user-images.githubusercontent.com/62080362/126562631-6636e9c0-196c-4b09-b0cb-1dfec8573a72.png)
 
 
 <h3 align="center"> This code was built with :heart: and 2 cups of Coffee:coffee:</h3>
